@@ -28,7 +28,7 @@ To play the shepherding task with the artificial-agent, or to observe two artifi
 1. To return to the title screen at any time, press the Escape key.
 
 ### Code Contents
-Note: Unity is required to view and edit the software. The code was created and tested using [Unity Release 2017.4.16f1](https://unity3d.com/unity/qa/lts-releases).
+Note: Unity is required to view and edit the software. Requires [Unity Release 2017.4.16f1] or newer (https://unity3d.com/unity/qa/lts-releases).
 - Once downloaded, the project folder to open using Unity is titled ```ShepherdingTask_HumanSocialMotorSolutions```
 
 Summary of content within the ```ShepherdingTask_HumanSocialMotorSolutions\Scripts``` subfolder.
