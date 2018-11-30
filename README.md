@@ -16,7 +16,7 @@ To play the shepherding task with the artificial-agent, or to observe two artifi
 
 1. Open the executable. The following screen should appear:
 
-![Shepherding Unity Screen Shot](./Shepherding_Unity_TitleScreen.png)
+![Shepherding Unity Screen Shot](./Shepherding_Unity_TitleScreen.PNG)
 
 1. Click on the experiment image you would like to play/watch.
 1. Select one of the following options:  
