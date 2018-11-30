@@ -22,15 +22,19 @@ When referencing the original study investigating human-machine interaction duri
 
 ### Using Compiled Version of Software
 To play the shepherding task with the artificial-agent, or to observe two artificial-agents complete the task, download the contents inside the subfolder that matches your operating system located in the ```Compiled Software``` folder. Note, all the contents need to be in the same location for the software to run.
-1. Open the executable. The following screen should appear:  
-  <img src="./Shepherding_Unity_TitleScreen.PNG" width="320">  
-2. Click on the experiment image you would like to play/watch.  
-3. Select one of the following options:  
+
+1. Open the executable. The following screen should appear:
+
+  <img src="./Shepherding_Unity_TitleScreen.PNG" width="320">
+
+1. Click on the experiment image you would like to play/watch.
+1. Select one of the following options:  
   * **Mouse** to control the orange cube/sheepdog and play with the artificial-agent using your mouse.
-  * **Observe** to watch two artificial-agents complete the task.  
-4. Select **Start** to initiate the task environment.
-  * If playing, move your player to the black start location located near the bottom of the game screen to initiate a trial.  
-5. To return to the title screen at any time, press the Escape key.
+  * **Observe** to watch two artificial-agents complete the task.
+
+1. Select **Start** to initiate the task environment.
+  * If playing, move your player to the black start location located near the bottom of the game screen to initiate a trial.
+1. To return to the title screen at any time, press the Escape key.
 
 ### Code Contents
 Note: Unity is required to view and edit the software. The code was created and tested using [Unity Release 2017.4.16f1](https://unity3d.com/unity/qa/lts-releases).
