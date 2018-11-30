@@ -17,7 +17,7 @@ When referencing the original study investigating human coordination during the 
 When referencing the original study investigating human-machine interaction during the dyadic shepherding task, and when using code taken from this repository, please cite the following:  
 - TBD
 
-### Background Information and Web Player
+### Background Information and Play Online
 [Click here](http://xkiwilabs.com/hmi-shepherding/) for background information regarding the work, a video, and an online web player to play/watch the dyadic shepherding task (note: you will be prompted to install Unity WebGL to use the web player).
 
 ### Using Compiled Version of Software
