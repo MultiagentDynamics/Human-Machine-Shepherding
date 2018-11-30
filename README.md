@@ -3,8 +3,11 @@
 Code repository for the Dyadic Shepherding Task.  
 The repository is managed by Dr. Patrick Nalepka ([@ShortFox](https://github.com/ShortFox) and Prof. Michael J. Richardson ([@xkiwilabs](https://github.com/xkiwilabs)).
 
-<img src="./Shepherding_Unity_Experiment1.gif" width="320">
-<img src="./Shepherding_Unity_Experiment2.gif" width='320'>
+| Experiment 1  | Experiment 2 |
+| :---: | :---: |
+| <img src="./Shepherding_Unity_Experiment1.gif" width="320">| <img src="./Shepherding_Unity_Experiment2.gif" width='320'>  |
+
+
 
 
 ### Acknowledgements
