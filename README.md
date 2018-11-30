@@ -11,6 +11,9 @@ When referencing the original study investigating human coordination during the 
 When referencing the original study investigating human-machine interaction during the dyadic shepherding task, and when using code taken from this repository, please cite the following:  
 - TBD
 
+### Play Online Demo
+http://xkiwilabs.com/hmi-shepherding/
+
 ### Using compiled version of software
 To play the shepherding task with the artificial-agent, or to observe two artificial-agents complete the task, download the contents inside the subfolder that matches your operating system located in the ```Compiled Software``` folder. Note, all the contents need to be in the same location for the software to run.
 
