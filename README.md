@@ -1,7 +1,7 @@
 # Human Social-Motor Solutions for Human-Machine Interaction in Dynamical Task Contexts
 
 Code repository for the Dyadic Shepherding Task.  
-The repository is managed by Dr. Patrick Nalepka (@ShortFox) and Prof. Michael J. Richardson (@xkiwilabs).
+The repository is managed by Dr. Patrick Nalepka ([@ShortFox](https://github.com/ShortFox) and Prof. Michael J. Richardson ([@xkiwilabs](https://github.com/xkiwilabs)).
 
 <img src="./Shepherding_Unity_Experiment1.gif" width="320">
 <img src="./Shepherding_Unity_Experiment2.gif" width='320'>
@@ -22,7 +22,7 @@ To play the shepherding task with the artificial-agent, or to observe two artifi
 
 1. Open the executable. The following screen should appear:
 
-  <img src="./Shepherding_Unity_TitleScreen.png" width="320">
+  <img src="./Shepherding_Unity_TitleScreen.PNG" width="320">
 
 1. Click on the experiment image you would like to play/watch.
 1. Select one of the following options:  
