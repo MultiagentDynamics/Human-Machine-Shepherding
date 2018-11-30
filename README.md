@@ -1,7 +1,7 @@
 # Human Social-Motor Solutions for Human-Machine Interaction in Dynamical Task Contexts
 
 Code repository for the Dyadic Shepherding Task.  
-The repository is managed by Dr. Patrick Nalepka ([@ShortFox](https://github.com/ShortFox) and Prof. Michael J. Richardson ([@xkiwilabs](https://github.com/xkiwilabs)).
+The repository is managed by Dr. Patrick Nalepka ([@ShortFox](https://github.com/ShortFox)) and Prof. Michael J. Richardson ([@xkiwilabs](https://github.com/xkiwilabs)).
 
 | Experiment 1  | Experiment 2 |
 | :---: | :---: |
