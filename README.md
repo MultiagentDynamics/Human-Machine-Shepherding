@@ -1,8 +1,11 @@
-[image1]: ./Shepherding_Unity_TitleScreen.png "Shepherding Task Title Screen"
-
 # Human Social-Motor Solutions for Human-Machine Interaction in Dynamical Task Contexts
 
-Code repository for the Dyadic Shepherding Task. The repository is managed by Dr. Patrick Nalepka (@ShortFox) and Prof. Michael J. Richardson (@xkiwilabs).
+Code repository for the Dyadic Shepherding Task.  
+The repository is managed by Dr. Patrick Nalepka (@ShortFox) and Prof. Michael J. Richardson (@xkiwilabs).
+
+<img src="./Shepherding_Unity_Experiment1.gif" width="320">
+<img src="./Shepherding_Unity_Experiment2.gif" width='320'>
+
 
 ### Acknowledgements
 When referencing the original study investigating human coordination during the dyadic shepherding task, please cite the following:  
@@ -11,12 +14,15 @@ When referencing the original study investigating human coordination during the 
 When referencing the original study investigating human-machine interaction during the dyadic shepherding task, and when using code taken from this repository, please cite the following:  
 - TBD
 
-### Using compiled version of software
+### Background Information and Web Player
+[Click here](http://xkiwilabs.com/hmi-shepherding/) for background information regarding the work, a video, and an online web player to play/watch the dyadic shepherding task (note: you will be prompted to install Unity WebGL to use the web player).
+
+### Using Compiled Version of Software
 To play the shepherding task with the artificial-agent, or to observe two artificial-agents complete the task, download the contents inside the subfolder that matches your operating system located in the ```Compiled Software``` folder. Note, all the contents need to be in the same location for the software to run.
 
 1. Open the executable. The following screen should appear:
 
-![Shepherding Unity Screen Shot](Shepherding_Unity_TitleScreen.png)
+  <img src="./Shepherding_Unity_TitleScreen.png" width="320">
 
 1. Click on the experiment image you would like to play/watch.
 1. Select one of the following options:  
@@ -29,9 +35,9 @@ To play the shepherding task with the artificial-agent, or to observe two artifi
 
 ### Code Contents
 Note: Unity is required to view and edit the software. The code was created and tested using [Unity Release 2017.4.16f1](https://unity3d.com/unity/qa/lts-releases).
-- Once downloaded, the project folder to open using Unity is titled ```ShepherdingTask_HumanSocialMotorSolutions```
+- Once downloaded, import the Unity package titled ```Human-Machine-Shepherding```
 
-Summary of content within the ```ShepherdingTask_HumanSocialMotorSolutions\Scripts``` subfolder.
+Summary of content within the ```Scripts``` folder.
 * Common Scripts
   * ```MenuGUI``` Handles interaction with TitleScreen scene.
   * ```SheepDynamics``` Handles the behavior of the sheep for both Experiments 1 and 2.
