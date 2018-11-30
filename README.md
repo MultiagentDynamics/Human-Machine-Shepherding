@@ -15,8 +15,7 @@ When referencing the original study investigating human-machine interaction duri
 To play the shepherding task with the artificial-agent, or to observe two artificial-agents complete the task, download the contents inside the subfolder that matches your operating system located in the ```Compiled Software``` folder. Note, all the contents need to be in the same location for the software to run.
 
 1. Open the executable. The following screen should appear:
-
-  <img src="Shepherding_Unity_TitleScreen.png" width="480">
+![Shepherding Unity Screen Shot](Shepherding_Unity_TitleScreen.png.png)
 
 1. Click on the experiment image you would like to play/watch.
 1. Select one of the following options:  
