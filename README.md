@@ -15,7 +15,7 @@ When referencing the original study investigating human coordination during the 
 - Nalepka, P., Kallen, R. W., Chemero, A., Saltzman, E., & Richardson, M. J. (2017). Herd those sheep: Emergent multi-agent coordination and behavioral mode switching. *Psychological Science*, *28*(5), 630-650
 
 When referencing the original study investigating human-machine interaction during the dyadic shepherding task, and when using code taken from this repository, please cite the following:  
-- Nalepka, P., Lamb, M., Kallen, R. W., Shockley, K., Chemero, A., Saltzman, E., & Richardson, M. J. (2019). Human social motor solutions for human-machine interaction in dynamical task contexts. *Proceedings of the National Academy of Sciences*, 201813164. https://doi.org/10.1073/PNAS.1813164116
+- Nalepka, P., Lamb, M., Kallen, R. W., Shockley, K., Chemero, A., Saltzman, E., & Richardson, M. J. (2019). Human social motor solutions for human-machine interaction in dynamical task contexts. *Proceedings of the National Academy of Sciences*, *116*(4), 1437-1446. https://doi.org/10.1073/PNAS.1813164116
 
 ### Background Information and Play Online
 [Click here](http://xkiwilabs.com/hmi-shepherding/) for background information regarding the work, a video, and an online web player to play/watch the dyadic shepherding task (note: you will be prompted to install Unity WebGL to use the web player).
